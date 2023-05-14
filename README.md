@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IoanGogozan
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning back-end 
 - 💞️ I’m looking to collaborate on building web apps
 - 📫 How to reach me, just here on github
 
