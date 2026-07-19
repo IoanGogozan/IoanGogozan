@@ -27,13 +27,14 @@ Based in Kristiansand, Norway.
 
 [Live Demo](https://workflow.norvix.no/demo) · [Source Code](https://github.com/IoanGogozan/WorkFlow-Hub)
 
-Integration and workflow automation for Norwegian technical service companies.
+A verifiable workflow automation and system-integration demo for Norwegian technical service companies.
 
-The application demonstrates how an incoming request can move from email or form intake to a structured case, document workflow, delivery package, audit trail and operational reporting without repeated manual entry.
+The application turns a fictional service request into a tenant-scoped case, generated document, simulated SharePoint evidence, signed ERP receipt and inspectable audit trail.
 
-**Highlights:** multi-tenancy, RBAC, AI-assisted review, Brreg enrichment, document versioning, secure delivery links, integration monitoring, audit events and analytics.
+**Highlights:** temporary demo tenants, worker-backed orchestration, retries and idempotency, Brreg lookup with labelled fallback, document generation, integration evidence and run-specific audit events.
 
-**Stack:** C#/.NET, ASP.NET Core, PostgreSQL, Next.js, TypeScript, Docker and GitHub Actions.
+**Stack:** C#/.NET, ASP.NET Core, PostgreSQL, Next.js, TypeScript, Docker, Playwright and GitHub Actions.
+
 
 ---
 
