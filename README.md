@@ -51,17 +51,17 @@ The system demonstrates how citizen requests, attachments and operational data c
 
 ---
 
-### [TrustVault Lite](https://github.com/IoanGogozan/TrustVault-Lite-Secure-Client-Evidence-Portal)
+### [TrustVault Lite](https://github.com/IoanGogozan/TrustVault-Lite)
 
-[Source Code](https://github.com/IoanGogozan/TrustVault-Lite-Secure-Client-Evidence-Portal)
+[Live Demo](https://vault.norvix.no/demo) · [Source Code](https://github.com/IoanGogozan/TrustVault-Lite)
 
-A secure multi-tenant B2B document portal for confidential documents, compliance evidence, contracts and reports.
+An interactive multi-tenant B2B security sandbox for confidential documents, compliance evidence, contracts and reports.
 
-The project focuses on authorization, tenant isolation, secure file handling, auditable access and practical secure-development controls.
+The project demonstrates backend authorization, tenant isolation, secure sessions, private file delivery, delegated access and auditable security events.
 
-**Highlights:** RBAC and ABAC, PostgreSQL Row Level Security, secure uploads, private storage, scoped API keys, expiring share links, audit logs and automated security checks.
+**Highlights:** centralized RBAC/ABAC, hashed API keys and share tokens, secure uploads, proxy downloads, audit logs, security dashboards and a tested PostgreSQL/RLS tenant-isolation path.
 
-**Stack:** TypeScript, PostgreSQL, Row Level Security, RBAC/ABAC, Docker and GitHub Actions security workflows.
+**Stack:** TypeScript, Fastify, Next.js, React, PostgreSQL/RLS, Docker, Vitest and GitHub Actions.
 
 ---
 
