@@ -25,7 +25,7 @@ Based in Kristiansand, Norway.
 
 ### [Norvix WorkFlow Hub](https://github.com/IoanGogozan/WorkFlow-Hub)
 
-[Live Demo](https://workflow.norvix.no/demo) · [Source Code](https://github.com/IoanGogozan/WorkFlow-Hub)
+[Live Demo](https://workflow.norvix.no/) · [Source Code](https://github.com/IoanGogozan/WorkFlow-Hub)
 
 A verifiable workflow automation and system-integration demo for Norwegian technical service companies.
 
