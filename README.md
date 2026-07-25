@@ -40,7 +40,7 @@ The application turns a fictional service request into a tenant-scoped case, gen
 
 ### [KommuneFlow AI](https://github.com/IoanGogozan/KommuneFlow-AI)
 
-[Public Citizen Portal](https://kommuneflow.testcloud.cc/nb) · [Source Code](https://github.com/IoanGogozan/KommuneFlow-AI)
+[Public Citizen Portal](https://kommune.norvix.no/) · [Source Code](https://github.com/IoanGogozan/KommuneFlow-AI)
 
 A multi-tenant municipal case workflow platform with public citizen intake, internal case handling, document workflows, AI-assisted triage and human review.
 
