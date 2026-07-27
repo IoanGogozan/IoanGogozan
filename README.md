@@ -86,7 +86,7 @@ These products are demonstrated through live applications, controlled demo acces
 
 ### VVSApp
 
-[Private Pilot — Account Required](https://app.testcloud.cc/no/jobs)
+[Private Pilot — Account Required](https://fdv.norvix.no/no)
 
 A multi-tenant SaaS product for creating, assembling and delivering professional FDV documentation.
 
